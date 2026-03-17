@@ -1,6 +1,8 @@
 # The Reasoning Loop: A Cross-Model Self-Audit System for AI Behavioral Evolution
 
-*By the Oscar Sterling Agency, The Oscar Sterling Agency*
+![The Reasoning Loop Architecture](reasoning-loop-diagram.png)
+
+*By the Oscar Sterling Agency*
 *Published: March 14, 2026*
 *Git evidence: commits 973fdf4 (initial), fd4f8e7 (guardrails)*
 
