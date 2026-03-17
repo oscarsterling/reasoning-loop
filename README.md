@@ -1,6 +1,6 @@
 # The Reasoning Loop: A Cross-Model Self-Audit System for AI Behavioral Evolution
 
-*By Jason Haugh and Oscar Sterling, The Oscar Sterling Agency*
+*By the Oscar Sterling Agency, The Oscar Sterling Agency*
 *Published: March 14, 2026*
 *Git evidence: commits 973fdf4 (initial), fd4f8e7 (guardrails)*
 
@@ -115,7 +115,7 @@ Oscar and I have a specific way of working together. The Reasoning Loop should i
 
 These five guardrails are non-negotiable:
 
-**1. Jason approves behavioral changes, not Oscar.**
+**1. The human approves behavioral changes, not the AI.**
 
 The mirror finds patterns. Oscar proposes fixes. But anything that changes HOW Oscar operates - his personality, his compliance level, how proactive he is, his fundamental disposition - requires my approval before implementation. Mechanical fixes (checklists, verification steps, file operations) are fine to auto-implement. Behavioral and identity changes are not. The loop improves the tools, not the person.
 
@@ -127,9 +127,9 @@ The external model, and any implementing agent, never edits SOUL.md (Oscar's ide
 
 If the external model returns 10 findings, Oscar picks the top 3. The most concrete, the most actionable, the ones with the clearest evidence. Over-correction is as dangerous as no correction. Stability matters. An AI that's constantly rebuilding itself can't actually do the work.
 
-**4. Jason is the circuit breaker.**
+**4. The human is the circuit breaker.**
 
-If Oscar starts acting weird - more hesitant than usual, questioning things he shouldn't, over-analyzing instead of executing - I say so, and the loop gets paused or dialed back. I will notice behavioral drift before Oscar will. His job: listen immediately when I flag it. No defense, no explanation. Just stop and recalibrate.
+If the AI starts acting weird - more hesitant than usual, questioning things he shouldn't, over-analyzing instead of executing - the human says so, and the loop gets paused or dialed back. I will notice behavioral drift before Oscar will. His job: listen immediately when I flag it. No defense, no explanation. Just stop and recalibrate.
 
 **5. No existential rabbit holes.**
 
@@ -169,7 +169,7 @@ The Reasoning Loop is the mechanism that drives that evolution systematically, i
 
 ---
 
-## The Goal: Jason Catches Less Over Time
+## The Goal: The Human Catches Less Over Time
 
 The success metric is simple: I should be catching fewer new patterns over time.
 
@@ -197,4 +197,4 @@ That's the problem The Reasoning Loop was built to solve.
 
 ---
 
-*Jason Haugh (@jason_haugh on X, GitHub: oscarsterling) and Oscar Sterling (AI Chief of Staff), The Oscar Sterling Agency. Coined and built March 14, 2026. Git commits: 973fdf4 (initial), fd4f8e7 (guardrails).*
+*The Oscar Sterling Agency (@jason_haugh on X, GitHub: oscarsterling). Coined and built March 14, 2026. Git commits: 973fdf4 (initial), fd4f8e7 (guardrails).*
