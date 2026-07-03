@@ -1,3 +1,6 @@
+> **This project has moved.** It now lives in the Clelp Skills monorepo:
+> https://github.com/oscarsterling/clelp-skills/tree/main/reasoning-loop
+
 # The Reasoning Loop: A Cross-Model Self-Audit System for AI Behavioral Evolution
 
 ![The Reasoning Loop Architecture](reasoning-loop-diagram.png)
